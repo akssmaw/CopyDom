@@ -1,4 +1,6 @@
 # CopyDom
+
+
 var person = prompt("请输入节点", "");
 			var myDiv = eval(person);
 			String.prototype.hashCode = function() {
